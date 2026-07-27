@@ -1,0 +1,7 @@
+myvar = "Saif"
+my_var = "Saif"
+_my_var = "Saif"
+myVar = "Saif"
+MYVAR = "Saif"
+myvar2 = "Saif"
+my_variable_name = "Saif"
